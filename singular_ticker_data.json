@@ -1,0 +1,79 @@
+[
+  {
+    "location": "La Canada Dr",
+    "description": "Incident on La Canada Dr at Hardy Rd.",
+    "severity": "Minor Impact",
+    "startTime": "8/6/2025 10:31:20 PM",
+    "endTime": "8/6/2025 11:31:09 PM"
+  },
+  {
+    "location": "I-10",
+    "description": "Right hand shoulder blocked due to crash on I-10 Eastbound at Exit 236 Sandario Rd.",
+    "severity": "Minor Impact",
+    "startTime": "8/6/2025 10:17:12 PM",
+    "endTime": "8/6/2025 11:16:46 PM"
+  },
+  {
+    "location": "I-17",
+    "description": "Lane blocked due to stalled vehicle on I-17 Northbound at Exit 287 AZ-260.",
+    "severity": "High Impact",
+    "startTime": "8/6/2025 9:47:27 PM",
+    "endTime": "8/6/2025 11:17:08 PM"
+  },
+  {
+    "location": "AZ-77",
+    "description": "Incident on AZ-77 Oracle Rd at El Conquistador Way.",
+    "severity": "Low Impact",
+    "startTime": "8/6/2025 9:25:27 PM",
+    "endTime": "8/6/2025 11:25:12 PM"
+  },
+  {
+    "location": "AZ-51",
+    "description": "Lane closed due to crash on AZ-51 Northbound from Northern Ave to Exit 8 32nd St.",
+    "severity": "High Impact",
+    "startTime": "8/6/2025 9:09:54 PM",
+    "endTime": "8/6/2025 11:24:32 PM"
+  },
+  {
+    "location": "Venice Ave",
+    "description": "Crash on Venice Ave from Fairmount St to Bellevue St.",
+    "severity": "Minor Impact",
+    "startTime": "8/6/2025 9:07:43 PM",
+    "endTime": "8/7/2025 12:07:30 AM"
+  },
+  {
+    "location": "Craycroft Rd",
+    "description": "Crash on Craycroft Rd at San Francisco Blvd.",
+    "severity": "Minor Impact",
+    "startTime": "8/6/2025 8:26:35 PM",
+    "endTime": "8/6/2025 11:11:26 PM"
+  },
+  {
+    "location": "AZ-64",
+    "description": "Lane blocked due to crash on AZ-64 Southbound at Ravenwood Rd.",
+    "severity": "Moderate Impact",
+    "startTime": "8/6/2025 8:16:20 PM",
+    "endTime": "8/6/2025 11:15:59 PM"
+  },
+  {
+    "location": "Fort Lowell Rd",
+    "description": "Incident on Fort Lowell Rd at Alvernon Way.",
+    "severity": "Minor Impact",
+    "startTime": "8/6/2025 8:11:21 PM",
+    "endTime": "8/7/2025 12:11:08 AM"
+  },
+  {
+    "location": "US-60",
+    "description": "Lane blocked due to emergency repairs and crash on US-60 Westbound at Exit 182 Gilbert Rd.",
+    "severity": "Moderate Impact",
+    "startTime": "8/6/2025 5:29:42 PM",
+    "endTime": "8/7/2025 12:59:22 AM"
+  },
+  {
+    "location": "AZ-67",
+    "description": "Road blocked due to wild fire on AZ-67 Southbound between US-89-ALT and Nf-260.",
+    "severity": "High Impact",
+    "startTime": "7/24/2025 4:17:08 PM",
+    "endTime": "8/7/2025 1:43:34 AM"
+  }
+]
